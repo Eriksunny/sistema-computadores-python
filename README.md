@@ -1,4 +1,4 @@
-💻 Sistema de Gerenciamento de Computadores em Python
+# 💻 Sistema de Gerenciamento de Computadores em Python
 
 Este projeto é um sistema simples em Python para cadastro e gerenciamento de computadores, permitindo armazenar e visualizar configurações de hardware como CPU, GPU e memória RAM.
 

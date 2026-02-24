@@ -31,7 +31,7 @@ pc2 = Computador(
     16,
     3200
 )
-
+# PC 3 (PC do Yago)
 pc3 = Computador(
     "B450M",
     "GTX 1660 Super",
@@ -56,4 +56,5 @@ sistema.listar_computadores()
 # Mostrar detalhes completos
 print("\nDetalhes completos:")
 sistema.mostrar_todos_detalhes()
+
 
